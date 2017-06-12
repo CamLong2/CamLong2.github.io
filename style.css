@@ -1,5 +1,14 @@
 
 body {background-image: url("background.jpg"); text-align:center;  padding:85px 0;}
+h {
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
 /* The Modal (background) */
 .modal {
     display: none; /* Hidden by default */
